@@ -1,1 +1,1 @@
-# hdp-utils
+# utilities for data ingestion
